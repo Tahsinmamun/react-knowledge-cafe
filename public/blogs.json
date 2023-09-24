@@ -1,0 +1,103 @@
+[
+    {
+      "id": "1",
+      "cover": "https://i.ibb.co/DKC9GL9/cute-cat-licking-its-paw.jpg",
+      "title": "Lorem Ipsum - The Art of Placeholder Text",
+      "author": "John Smith",
+      "author-img": "https://i.ibb.co/xDPJHtn/author-4.jpg",
+      "posted-date": "2023-09-24",
+      "reading-time": 8,
+      "hashtags": ["LoremIpsum", "text", "placeholder"]
+    },
+    {
+      "id": "2",
+      "cover": "https://i.ibb.co/0cvNVtV/selective-kitten-stand-with-hanging-fluffy-ball.jpg",
+      "title": "The Future of Space Exploration",
+      "author": "Jane Doe",
+      "author-img": "https://i.ibb.co/ZgL2RRq/author-2.jpg",
+      "posted-date": "2023-09-23",
+      "reading-time": 12,
+      "hashtags": ["space", "exploration", "science"]
+    },
+    {
+      "id": "3",
+      "cover": "https://i.ibb.co/QYhr9hq/7964736.jpg",
+      "title": "Gourmet Cooking with AI Chefs",
+      "author": "Alice Johnson",
+      "author-img": "https://i.ibb.co/wBDHxWj/auhtor-3.jpg",
+      "posted-date": "2023-09-22",
+      "reading-time": 15,
+      "hashtags": ["cooking", "AI", "food"]
+    },
+    {
+      "id": "4",
+      "cover": "https://i.ibb.co/gJcZ2Zc/6170792.jpg",
+      "title": "10 Tips for Better Productivity",
+      "author": "Robert Brown",
+      "author-img": "https://i.ibb.co/xDPJHtn/author-4.jpg",
+      "posted-date": "2023-09-21",
+      "reading-time": 7,
+      "hashtags": ["productivity", "tips", "work"]
+    },
+    {
+      "id": "5",
+      "cover": "https://i.ibb.co/L5hXtwf/298-furniture-social-media-post-template.jpg",
+      "title": "Artificial Intelligence in Healthcare",
+      "author": "Emily Wilson",
+      "author-img": "https://i.ibb.co/xDPJHtn/author-4.jpg",
+      "posted-date": "2023-09-20",
+      "reading-time": 10,
+      "hashtags": ["AI", "healthcare", "technology"]
+    },
+    {
+      "id": "6",
+      "cover": "https://i.ibb.co/p3NJLPt/19330959.jpg",
+      "title": "Exploring Underwater Ecosystems",
+      "author": "Michael Adams",
+      "author-img": "https://i.ibb.co/wBDHxWj/auhtor-3.jpg",
+      "posted-date": "2023-09-19",
+      "reading-time": 14,
+      "hashtags": ["ocean", "exploration", "environment"]
+    },
+    {
+      "id": "7",
+      "cover": "https://i.ibb.co/DKC9GL9/cute-cat-licking-its-paw.jpg",
+      "title": "The World of Virtual Reality",
+      "author": "Sarah Turner",
+      "author-img": "https://i.ibb.co/wBDHxWj/auhtor-3.jpg",
+      "posted-date": "2023-09-18",
+      "reading-time": 9,
+      "hashtags": ["VR", "technology", "virtualworld"]
+    },
+    {
+      "id": "8",
+      "cover": "https://i.ibb.co/QYhr9hq/7964736.jpg",
+      "title": "Traveling on a Budget: Tips and Tricks",
+      "author": "David Wilson",
+      "author-img": "https://i.ibb.co/xDPJHtn/author-4.jpg",
+      "posted-date": "2023-09-17",
+      "reading-time": 6,
+      "hashtags": ["travel", "budget", "adventure"]
+    },
+    {
+      "id": "9",
+      "cover": "https://i.ibb.co/L5hXtwf/298-furniture-social-media-post-template.jpg",
+      "title": "The Art of Photography",
+      "author": "Linda Carter",
+      "author-img": "https://i.ibb.co/wBDHxWj/auhtor-3.jpg",
+      "posted-date": "2023-09-16",
+      "reading-time": 11,
+      "hashtags": ["photography", "art", "creativity"]
+    },
+    {
+      "id": "10",
+      "cover": "https://i.ibb.co/L5hXtwf/298-furniture-social-media-post-template.jpg",
+      "title": "Understanding Cryptocurrency",
+      "author": "James Miller",
+      "author-img": "https://i.ibb.co/xDPJHtn/author-4.jpg",
+      "posted-date": "2023-09-15",
+      "reading-time": 13,
+      "hashtags": ["cryptocurrency", "blockchain", "finance"]
+    }
+  ]
+  

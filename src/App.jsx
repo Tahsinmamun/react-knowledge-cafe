@@ -10,10 +10,14 @@ function App() {
   const [readingTime,setReadingTime]=useState(0);
 
 
-  const handleReadingTime=time=>{
+  const markAsRead=(time,id)=>{
     const newReadingTime=readingTime+time;
     setReadingTime(newReadingTime);
+    const remainingBookmarks=bookmarks.filter(bookmark=>bookmark.id!==id)
+    setBookmarks(remainingBookmarks)
+    console.log(time,id);
   }
+  
 
 
   const handleBookmarks=blog=>{
@@ -22,7 +26,7 @@ function App() {
     setBookmarks(newBookmark);
 
   }
-  console.log(bookmarks.length);
+  
  
 
   return (
@@ -32,7 +36,7 @@ function App() {
       <div>
         <Header></Header>
         <div className='md:flex max-w-7xl mx-auto mt-5'>
-        <Blogs handleBookmarks={handleBookmarks} handleReadingTime={handleReadingTime}></Blogs>
+        <Blogs handleBookmarks={handleBookmarks} markAsRead={markAsRead}></Blogs>
         <Bookmarks readingTime={readingTime} bookmarks={bookmarks}></Bookmarks>
         </div>
       </div>
